@@ -46,7 +46,7 @@ jira-auto-assign-comment-transition-trigger/
 | `JIRA_BASE`                 | `https://tuorg.atlassian.net/`                | URL base de tu instancia de Jira |
 | `JIRA_USER_EMAIL`           | `tu.email@empresa.com`                        | Correo Atlassian |
 | `JIRA_API_TOKEN`            | `xxxxxxxx`                                    | Token de API de Atlassian |
-| `JIRA_ASSIGNEE_ACCOUNT_ID`  | `629e60ea76c0360069f2d23f`                    | AccountId del usuario asignado |
+| `JIRA_ASSIGNEE_ACCOUNT_ID`  | `xxxxxxxxxxxxxxxxxxxxxxxx`                    | AccountId del usuario asignado |
 | `COMMENT_PUBLIC`            | `true`                                        | Habilitar comentario público |
 
 
