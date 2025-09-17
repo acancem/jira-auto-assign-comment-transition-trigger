@@ -1,4 +1,4 @@
-# Guía de instalación y configuración
+# Guía de configuración
 
 Este documento explica cómo configurar el bot en **Google Apps Script** para que procese correos de Jira con tickets sin asignar.
 
