@@ -10,15 +10,15 @@ Este documento explica cómo configurar el bot en **Google Apps Script** para qu
 2. Crear un filtro con búsqueda **JQL** y guardarlo con un nombre.  
    - Ejemplo: `Tickets nuevos (sin asignar)`
 
-   ![Ejemplo del filtro JQL](img/filtroJQL.png)
+   ![Ejemplo del filtro JQL](img/jira-filtro-JQL.png)
 
 3. Crear la suscripción.
 
-   ![Ubicación de gestionar suscripción](img/suscripcion.png)
+   ![Ubicación de gestionar suscripción](img/jira-suscripcion.png)
      
 5. Añadir la suscripción con el intervalo deseado.
 
-   ![Ubicación de filtro suscripción](img/filtrosuscripcion.png)    
+   ![Ubicación de filtro suscripción](img/jira-filtro-suscripcion.png)    
 
 ---
 
@@ -40,7 +40,7 @@ Este documento explica cómo configurar el bot en **Google Apps Script** para qu
 11. Guarda el token en un lugar seguro.  
 12. Obtén tu **accountId de Jira** entrando a tu perfil.
 
-   ![Ejemplo de perfil](img/atlassianperfil.png)  
+   ![Ejemplo de perfil](img/atlassian-perfil.png)  
   
 13. Cópialo desde la URL generada, por ejemplo:  
  ```
