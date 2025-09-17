@@ -70,7 +70,7 @@ El trigger se encargará de buscar correos de Jira con el filtro configurado y p
 ---
 
 ## 📘 Guía completa
-La guía detallada de instalación y configuración está en [`docs/guia.md`](docs/guia.md).  
+La guía detallada de configuración está en [`docs/guia.md`](docs/guia.md).  
 
 ---
 
