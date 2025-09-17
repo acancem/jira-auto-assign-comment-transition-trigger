@@ -8,9 +8,12 @@ Este documento explica cómo configurar el bot en **Google Apps Script** para qu
 
 1. Ir a [filtros de Jira](https://neotel-us.atlassian.net/jira/filters).  
 2. Crear un filtro con búsqueda **JQL** y guardarlo con un nombre.  
-   - Ejemplo: `Tickets nuevos (sin asignar)`  
-3. Crear la suscripción.  
-4. Añadir la suscripción con el intervalo deseado.  
+   - Ejemplo: `Tickets nuevos (sin asignar)`
+   ![Ejemplo del filtro JQL](img/filtroJQL.png)
+3. Crear la suscripción.
+   ![Ubicación de gestionar suscripción](img/suscripcion.png)  
+4. Añadir la suscripción con el intervalo deseado.
+   ![Ubicación de filtro suscripción](img/filtrosuscripcion.png)    
 
 ---
 
@@ -30,7 +33,8 @@ Este documento explica cómo configurar el bot en **Google Apps Script** para qu
 10. Entra a **Tokens de API** y crea uno.  
  - Ejemplo: `AppsScript-Jira-Auto`  
 11. Guarda el token en un lugar seguro.  
-12. Obtén tu **accountId de Jira** entrando a tu perfil.  
+12. Obtén tu **accountId de Jira** entrando a tu perfil.
+   ![Ejemplo de perfil](img/atlassianperfil.png)    
 13. Cópialo desde la URL generada, por ejemplo:  
  ```
  https://home.atlassian.com/o/a4de150/people/accountID?cloudId=
