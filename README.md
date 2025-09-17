@@ -21,7 +21,7 @@ Todo esto a partir de correos entrantes de suscripciones de Jira filtrados en Gm
 ---
 
 ## 📂 Estructura del repositorio
-jira-auto-assign-comment-transition-trigger/
+```jira-auto-assign-comment-transition-trigger/
 │
 ├── src/
 │ └── Code.gs # Script principal de Apps Script
@@ -35,7 +35,7 @@ jira-auto-assign-comment-transition-trigger/
 │
 ├── LICENSE # MIT License
 └── README.md # Este archivo
-
+```
 
 ---
 
