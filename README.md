@@ -27,7 +27,11 @@ jira-auto-assign-comment-transition-trigger/
 │ └── Code.gs # Script principal de Apps Script
 │
 ├── docs/
-│ └── guia.md # Guía detallada de instalación y configuración
+│ ├── guia.md # Guía detallada de instalación y configuración
+│ └── img/ # Carpeta para imágenes de la guía
+│ ├── jira-filtro.png
+│ ├── jira-suscripcion-menu.png
+│ └── jira-suscripcion-intervalo.png
 │
 ├── LICENSE # MIT License
 └── README.md # Este archivo
