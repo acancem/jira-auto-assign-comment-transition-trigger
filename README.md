@@ -50,8 +50,6 @@ jira-auto-assign-comment-transition-trigger/
 | `COMMENT_PUBLIC`            | `true`                                        | Habilitar comentario público |
 
 
-⚠️ **Importante**: no subas tus tokens reales ni correos a GitHub. Usa valores de ejemplo.
-
 ---
 
 ## ⏱️ Trigger en Google Apps Script
@@ -67,7 +65,6 @@ El trigger se encargará de buscar correos de Jira con el filtro configurado y p
 
 ## 📘 Guía completa
 La guía detallada de instalación y configuración está en [`docs/guia.md`](docs/guia.md).  
-*(Actualmente en construcción, incluirá imágenes y ejemplos paso a paso.)*
 
 ---
 
