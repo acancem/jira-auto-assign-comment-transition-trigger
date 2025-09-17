@@ -76,7 +76,7 @@ function findTransitionId_(list, targetsCsv){
 
 /************* ASIGNAR → TRANSICIONAR → COMENTAR  *************/
 function processIssueCore_(key, BASE, auth, ASSIGNEE_ID){
-  const TARGETS_PROP = getProp_('TARGET_TRANSITION_NAMES', 'working,soporte,support'); //puedes ver tu transicion viendo el estado del ticket desde https://neotel-us.atlassian.net/issues/
+  const TARGETS_PROP = getProp_('TARGET_TRANSITION_NAMES', 'working,soporte,support'); //puedes ver tu transicion viendo el estado del ticket desde https://tuorg.atlassian.net/issues/
   const TARGET_ID_PROP = String(getProp_('TARGET_TRANSITION_ID', '')).trim();
 
   // leer datos del issue
