@@ -30,9 +30,10 @@ jira-auto-assign-comment-transition-trigger/
 ├── docs/
 │ ├── guia.md # Guía detallada de instalación y configuración
 │ └── img/ # Carpeta para imágenes de la guía
-│ ├── jira-filtro.png
-│ ├── jira-suscripcion-menu.png
-│ └── jira-suscripcion-intervalo.png
+│ ├── atlassianperfil.png
+│ ├── filtroJQL.png
+│ ├── filtrosuscripcion.png
+│ └── suscripcion.png
 │
 ├── LICENSE # MIT License
 └── README.md # Este archivo
